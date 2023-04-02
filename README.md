@@ -21,18 +21,16 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vicwen0418&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="">
 </p>
 <h2 align="center">Project:</h2>
-<p align="center">
-    <table>
-        <tr>
-            <th>Name</th>
-            <th>Repository</th>
-        </tr>
-        <tr>
-            <td>Line多功能機器人</td>
-            <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=vicwen0418&repo=Line-Assistant-Bot&theme=nightowl" alt=""></td>
-        </tr>
-    </table>        
-</p>
+<table align="center">
+    <tr>
+        <th>Name</th>
+        <th>Repository</th>
+    </tr>
+    <tr>
+        <td>Line多功能機器人</td>
+        <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=vicwen0418&repo=Line-Assistant-Bot&theme=nightowl" alt=""></td>
+    </tr>
+</table>        
 <h2 align="center">Record:</h2>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicwen0418&theme=nightowl" alt="">
