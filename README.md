@@ -1,23 +1,57 @@
-# Hello, I'm VicWen !
+# <center> Hello, I'm VicWen ! </center>
 
-![](https://media.tenor.com/8YoUiU-FyJoAAAAC/%E5%BD%A9%E8%99%B9%E8%B2%93-rainbow.gif)
 
-## About ME
+<center>
+
+![](https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif)
+    
+</center>
+
+## <center> About ME: </center>
 
 * 18-year-old student
 * From Taiwan (R.O.C)
 * Studying in National Taiwan University of Science and Technology (NTUST 臺科大)
 
-## things I code with:
- ![c](https://img.shields.io/static/v1?message=C&logo=C&labelColor=5c5c5c&color=1182c3&logoColor=1182c3&label=%20&style=plastic) ![c++](https://img.shields.io/static/v1?message=C%2B%2B&logo=c%2B%2B&labelColor=5c5c5c&color=7FFFD4&logoColor=7FFFD4&label=%20&style=plastic) ![c-sharp](https://img.shields.io/static/v1?message=c-sharp&logo=c-sharp&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic) ![python](https://img.shields.io/static/v1?message=python&logo=python&labelColor=5c5c5c&color=orange&logoColor=orange&label=%20&style=plastic) ![html5](https://img.shields.io/static/v1?message=html&logo=html5&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic) ![css3](https://img.shields.io/static/v1?message=css&logo=css3&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic) ![JavaScript](https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
- 
 
-![](https://github-readme-stats.vercel.app/api?username=vicwen0418&show_icons=true&theme=nightowl)
 
+## <center> things I code with: </center>
+
+![](https://i.imgur.com/Pwdioks.png)
+
+<center>
+    
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=vicwen0418&show_icons=true&locale=en&layout=compact&theme=nightowl)
+
+</center>
+    
+## <center> Project </center>
+
+<center>
+    
+| Project | Repository  |
+| -------- | --------|
+| Line多功能機器人     | ![](https://github-readme-stats.vercel.app/api/pin/?username=vicwen0418&repo=Line-Assistant-Bot&theme=nightowl)     |
+| Line每日天氣推播 | ![](https://github-readme-stats.vercel.app/api/pin/?username=vicwen0418&repo=Line-Weather-Notify-Bot&theme=nightowl) |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+
+</center>
+
+## <center> Record: </center>
+
+<center>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vicwen0418&theme=nightowl)
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=vicwen0418&repo=Line-Assistant-Bot&theme=nightowl)
-
+</center>
+    
+<center>
+    
 ![](https://github-profile-trophy.vercel.app/?username=vicwen0418&theme=tokyonight)
+
+</center>
