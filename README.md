@@ -30,6 +30,10 @@
         <td>Line多功能機器人</td>
         <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=vicwen0418&repo=Line-Assistant-Bot&theme=nightowl" alt=""></td>
     </tr>
+    <tr>
+        <td>Line每日天氣推播</td>
+        <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=vicwen0418&repo=Line-Weather-Notify-Bot&theme=nightowl" alt=""></td>
+    </tr>
 </table>        
 <h2 align="center">Record:</h2>
 <p align="center">
