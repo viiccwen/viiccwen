@@ -1,10 +1,6 @@
 <h1 align="center">
     <p>Hello, I'm VicWen !</p>
 </h1>
-<div align="center">
-    <h3>人生得意須盡歡，莫使金樽空對月。</h3>
-    <h3>古來聖賢皆寂寞，惟有飲者留其名。</h3>
-</div>
 <p align="center">
     <img src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" alt="">
 </p>
