@@ -14,8 +14,8 @@
 <p align="center">
     <img src="https://img.shields.io/static/v1?message=C&logo=C&labelColor=5c5c5c&color=1182c3&logoColor=1182c3&label=%20&style=plastic" alt="c">
     <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=c%2B%2B&labelColor=5c5c5c&color=7FFFD4&logoColor=7FFFD4&label=%20&style=plastic" alt="c++">
-    <img src="https://img.shields.io/static/v1?message=python&logo=python&labelColor=5c5c5c&color=orange&logoColor=orange&label=%20&style=plastic" alt="c-sharp">
-    <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=c%2B%2B&labelColor=5c5c5c&color=7FFFD4&logoColor=7FFFD4&label=%20&style=plastic" alt="python">
+    <img src="https://img.shields.io/static/v1?message=C-sharp&logo=c%2B%2B&labelColor=5c5c5c&color=7FFFD4&logoColor=7FFFD4&label=%20&style=plastic" alt="c-sharp">
+    <img src="https://img.shields.io/static/v1?message=python&logo=python&labelColor=5c5c5c&color=orange&logoColor=orange&label=%20&style=plastic" alt="python">
     <img src="https://img.shields.io/static/v1?message=html&logo=html5&labelColor=5c5c5c&color=F75000&logoColor=F75000&label=%20&style=plastic" alt="html">
     <img src="https://img.shields.io/static/v1?message=css&logo=css3&labelColor=5c5c5c&color=66B3FF&logoColor=66B3FF&label=%20&style=plastic" alt="css">
     <img src="https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&labelColor=5c5c5c&color=FFAD86&logoColor=FFAD86&label=%20&style=plastic" alt="java-script">
