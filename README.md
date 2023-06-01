@@ -5,7 +5,7 @@
 <ul>
     <li>18-year-old student</li>
     <li>From Taiwan (R.O.C)</li>
-    <li>Studying in National Taiwan University of Science and Technology (NTUST 臺科大)</li>
+    <li>Studying in National Taiwan University of Science and Technology ( 國立臺灣科技大學 )</li>
 </ul>
 <h2 align="center">things I code with:</h2>
 <p align="center">
@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/-visual studio code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="visualstudiocode">
     <img src="https://img.shields.io/badge/-ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="ubuntu">
     <img src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="docker">
+    <img src="https://img.shields.io/badge/-ethereum-3C3C3D?logo=ethereum&logoColor=white&style=for-the-badge" alt="ethereum">
     <img src="https://img.shields.io/badge/-polkadot-E6007A?logo=polkadot&logoColor=white&style=for-the-badge" alt="polkadot">
     <br><br>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vicwen0418&theme=tokyonight" alt="">
