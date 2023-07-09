@@ -3,7 +3,6 @@
 </h1>
 <h2 align="center">About Me:</h2>
 <ul>
-    <li>18-year-old student</li>
     <li>From Taiwan (R.O.C)</li>
     <li>Studying in National Taiwan University of Science and Technology ( 國立臺灣科技大學 )</li>
 </ul>
