@@ -24,8 +24,8 @@
     <img src="https://img.shields.io/badge/-ethereum-3C3C3D?logo=ethereum&logoColor=white&style=for-the-badge" alt="ethereum">
     <img src="https://img.shields.io/badge/-polkadot-E6007A?logo=polkadot&logoColor=white&style=for-the-badge" alt="polkadot">
     <br><br>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vicwen0418&theme=tokyonight" alt="">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vicwen0418&theme=tokyonight" alt="">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viiccwen&theme=tokyonight" alt="">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viiccwen&theme=tokyonight" alt="">
 </p>
 <h2 align="center">Project:</h2>
 <table align="center">
@@ -35,14 +35,14 @@
     </tr>
     <tr>
         <td>Line多功能機器人</td>
-        <td><a href="https://github.com/vicwen0418/Line-Assistant-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vicwen0418&repo=Line-Assistant-Bot&theme=nightowl" alt=""></a></td>
+        <td><a href="https://github.com/viiccwen/Line-Assistant-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=viiccwen&repo=Line-Assistant-Bot&theme=nightowl" alt=""></a></td>
     </tr>
 </table>        
 <h2 align="center">Record:</h2>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicwen0418&theme=nightowl" alt="">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=viiccwen&theme=nightowl" alt="">
     <br>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vicwen0418&theme=tokyonight" alt="">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vicwen0418&theme=tokyonight" alt="">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vicwen0418&theme=tokyonight&utcOffset=8" alt="">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viiccwen&theme=tokyonight" alt="">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viiccwen&theme=tokyonight" alt="">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viiccwen&theme=tokyonight&utcOffset=8" alt="">
 </p>
