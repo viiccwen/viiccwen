@@ -1,12 +1,13 @@
 <h1 align="center">
     <p>Hello, I'm VicWen !</p>
 </h1>
-<h2 align="center">About Me:</h2>
+<h2 align="center">About Me</h2>
 <ul>
     <li>From Taiwan (R.O.C)</li>
-    <li>Studying in National Taiwan University of Science and Technology ( 國立臺灣科技大學 )</li>
+    <li>Studying in National Taiwan University of Science and Technology</li>
+    <li>Majoring in Computer Science and Information Engineering</li>
 </ul>
-<h2 align="center">things I code with:</h2>
+<h2 align="center">things I code with</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" alt="C">
     <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=C%2B%2B&logoColor=white&style=for-the-badge" alt="C++">
@@ -21,13 +22,11 @@
     <img src="https://img.shields.io/badge/-visual studio code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="visualstudiocode">
     <img src="https://img.shields.io/badge/-ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="ubuntu">
     <img src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="docker">
-    <img src="https://img.shields.io/badge/-ethereum-3C3C3D?logo=ethereum&logoColor=white&style=for-the-badge" alt="ethereum">
-    <img src="https://img.shields.io/badge/-polkadot-E6007A?logo=polkadot&logoColor=white&style=for-the-badge" alt="polkadot">
     <br><br>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viiccwen&theme=tokyonight" alt="">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viiccwen&theme=tokyonight" alt="">
 </p>
-<h2 align="center">Project:</h2>
+<h2 align="center">Project</h2>
 <table align="center">
     <tr>
         <th>Name</th>
@@ -38,7 +37,7 @@
         <td><a href="https://github.com/viiccwen/Line-Assistant-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=viiccwen&repo=Line-Assistant-Bot&theme=nightowl" alt=""></a></td>
     </tr>
 </table>        
-<h2 align="center">Record:</h2>
+<h2 align="center">Record</h2>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=viiccwen&theme=nightowl" alt="">
     <br>
