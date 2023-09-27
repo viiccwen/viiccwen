@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML">
     <img src="https://img.shields.io/badge/-css-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" alt="CSS">
     <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
-    <br>
+    <br><br>
     <img src="https://img.shields.io/badge/-react-	61DAFB?logo=React&logoColor=black&style=for-the-badge" alt="React">
     <img src="https://img.shields.io/badge/-php-	777BB4?logo=PHP&logoColor=white&style=for-the-badge" alt="PHP">
     <img src="https://img.shields.io/badge/-mysql-	4479A1?logo=MySQL&logoColor=white&style=for-the-badge" alt="mysql">
@@ -30,11 +30,7 @@
     <img src="https://img.shields.io/badge/-visual studio code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="visualstudiocode">
     <img src="https://img.shields.io/badge/-ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="ubuntu">
     <img src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="docker">
-    <br><br>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viiccwen&theme=tokyonight" alt="">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viiccwen&theme=tokyonight" alt="">
-</p>
-   
+    
 <h2 align="center">Record</h2>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=viiccwen&theme=nightowl" alt="">
