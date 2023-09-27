@@ -22,9 +22,9 @@
     <img src="https://img.shields.io/badge/-css-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" alt="CSS">
     <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
     <br><br>
-    <img src="https://img.shields.io/badge/-react-	61DAFB?logo=React&logoColor=black&style=for-the-badge" alt="React">
-    <img src="https://img.shields.io/badge/-php-	777BB4?logo=PHP&logoColor=white&style=for-the-badge" alt="PHP">
-    <img src="https://img.shields.io/badge/-mysql-	4479A1?logo=MySQL&logoColor=white&style=for-the-badge" alt="mysql">
+    <img src="https://img.shields.io/badge/-react-	61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React">
+    <img src="https://img.shields.io/badge/-php-	777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
+    <img src="https://img.shields.io/badge/-mysql-	4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="mysql">
     <img src="https://img.shields.io/badge/-rust-000000?logo=rust&logoColor=white&style=for-the-badge" alt="Rust">
     <br><br>
     <img src="https://img.shields.io/badge/-visual studio code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="visualstudiocode">
