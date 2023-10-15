@@ -10,6 +10,14 @@
     <li>Majoring in Computer Science and Information Engineering</li>
 </ul>
 
+<h2 align="center">Interests</h2>
+
+<ul>
+    <li>Competitive-programming</li>
+    <li>Full-stack dev</li>
+</ul>
+
+
 <h2 align="center">things I code with</h2>
 
 <p align="center">
