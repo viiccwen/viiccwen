@@ -32,10 +32,6 @@
     <br><br>
     <img src="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
     <img src="https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="mysql">
-    <br><br>
-    <img src="https://img.shields.io/badge/-visual studio code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="visualstudiocode">
-    <img src="https://img.shields.io/badge/-ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="ubuntu">
-    <img src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="docker">
     
 <h2 align="center">Record</h2>
 <p align="center">
