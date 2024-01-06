@@ -6,15 +6,16 @@
 
 <ul>
     <li>From Taiwan (R.O.C)</li>
-    <li>Studying in National Taiwan University of Science and Technology</li>
-    <li>Majoring in Computer Science and Information Engineering</li>
+    <li>Studying in National Taiwan University of Science and Technology (NTUST)</li>
+    <li>Majoring in Computer Science and Information Engineering (CSIE)</li>
 </ul>
 
 <h2 align="center">Interests</h2>
 
 <ul>
-    <li>Competitive-programming</li>
     <li>Full-stack dev</li>
+    <li>Competitive-programming</li>
+
 </ul>
 
 
@@ -32,6 +33,8 @@
     <br><br>
     <img src="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
     <img src="https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="mysql">
+    <img src="https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="react">  
+    <img src="https://img.shields.io/badge/-next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js">
     
 <h2 align="center">Record</h2>
 <p align="center">
