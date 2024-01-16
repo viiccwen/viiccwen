@@ -35,12 +35,3 @@
     <img src="https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="mysql">
     <img src="https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="react">  
     <img src="https://img.shields.io/badge/-next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js">
-    
-<h2 align="center">Record</h2>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=viiccwen&theme=nightowl" alt="">
-    <br>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viiccwen&theme=tokyonight" alt="">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viiccwen&theme=tokyonight" alt="">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viiccwen&theme=tokyonight&utcOffset=8" alt="">
-</p>
