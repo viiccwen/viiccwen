@@ -15,7 +15,6 @@
 <ul>
     <li>Full-stack dev</li>
     <li>Competitive-programming</li>
-
 </ul>
 
 
