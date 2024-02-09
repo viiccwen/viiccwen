@@ -13,7 +13,9 @@
 <h2 align="center">Interests</h2>
 
 <ul>
-    <li>Full-stack dev</li>
+    <li>Windows/Linux Server Management</li>
+    <li>Full-stack Dev</li>
+    <li>Cybersecurity</li>
     <li>Competitive-programming</li>
 </ul>
 
