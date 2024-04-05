@@ -28,11 +28,14 @@
     <img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
     <img src="https://img.shields.io/badge/-VB.net-512BD4?logo=.net&logoColor=white&style=for-the-badge" alt="VB.net">
     <img src="https://img.shields.io/badge/-arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" alt="Arduino">
+    <br><br>
     <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML">
     <img src="https://img.shields.io/badge/-css-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" alt="CSS">
     <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
     <br><br>
     <img src="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
     <img src="https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="mysql">
-    <img src="https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="react">  
+    <img src="https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="react">
     <img src="https://img.shields.io/badge/-next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js">
+    <img src="https://img.shields.io/badge/-node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js">
