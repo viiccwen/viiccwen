@@ -1,41 +1,34 @@
- <h1 align="center">
-    <p>Hello, I'm VicWen !</p>
+<h1 align="center">
+    <p>Hello, I'm VicWen❗</p>
 </h1>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">👀 About Me</h2>
 
 <ul>
     <li>From Taiwan (R.O.C)</li>
-    <li>Studying in National Taiwan University of Science and Technology (NTUST)</li>
-    <li>Majoring in Computer Science and Information Engineering (CSIE)</li>
+    <li>2024 NTUST Google Developer Student Clubs Lead</li>
+    <li>2024 NTUST Computer Science  Student Association Lead</li>
+    <li>Interested in Full-stack and Blockchain domain</li>
 </ul>
 
-<h2 align="center">Interests</h2>
+<h2 align="center">❓ I code with...</h2>
 
-<ul>
-    <li>Windows/Linux Server Management</li>
-    <li>Full-stack Dev</li>
-    <li>Cybersecurity</li>
-    <li>Competitive-programming</li>
-</ul>
+<h3>🧨 frontend</h3>
+<p>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"> 
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react">
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next">
+<img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="bun">
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux">
+</p>
 
-
-<h2 align="center">things I code with</h2>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" alt="C">
-    <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=C%2B%2B&logoColor=white&style=for-the-badge" alt="C++">
-    <img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
-    <img src="https://img.shields.io/badge/-VB.net-512BD4?logo=.net&logoColor=white&style=for-the-badge" alt="VB.net">
-    <img src="https://img.shields.io/badge/-arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" alt="Arduino">
-    <br><br>
-    <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML">
-    <img src="https://img.shields.io/badge/-css-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" alt="CSS">
-    <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
-    <br><br>
-    <img src="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
-    <img src="https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="mysql">
-    <img src="https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="react">
-    <img src="https://img.shields.io/badge/-next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js">
-    <img src="https://img.shields.io/badge/-node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js">
+<h3>✨ backend</h3>
+<p>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma"> 
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres">
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL">      
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase">         
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"> 
+</p>
