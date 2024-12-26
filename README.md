@@ -15,7 +15,7 @@
 <h2 align="center">🚀 Projects</h2>
 <ul>
     <li><a href="https://partytimes.org">PartyTimes | 都不揪？</a> - Decide party, meeting easily 🌟</li>
-    <li><a href="https://college-gpacalculator.vercel.app/">GPA Calculator</a> - for 4.3 GP 🈵</li>
+    <li><a href="https://gpa-calculator.vicwen.app/">GPA Calculator</a> - for 4.3 GP 🈵</li>
 </ul>
 
 <h2 align="center">❓ I code with...</h2>
