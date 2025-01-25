@@ -9,15 +9,7 @@
     <li>2024 GDG on Campus NTUST Lead</li>
     <li>2024 NTUST Computer Science Student Association Lead</li>
     <li>2024 NTUST BlockChain Club Academic</li>
-    <li>Interested in Full-stack & ML/DL & Blockchain domain</li>
-</ul>
-
-<h2 align="center">🚀 Projects</h2>
-<ul>
-    <li><a href="https://partytimes.org">PartyTimes | 都不揪？</a> - Decide party, meeting easily 🌟</li>
-    <li><a href="https://gpa-calculator.vicwen.app/">GPA Calculator</a> - for 4.3 GP 💥</li>
-    <li><a href="https://github.com/viiccwen/emoji-store">Emoji NFT Store</a> - build in Web3.0 based on Ethereum Chain 🚀</li>
-    <li><a href="https://github.com/viiccwen/Help-Dream-Scholarship-Notify-Bot">Scholorship automate notification</a> - 圓夢助學網獎學金通知｜Telegram Bot</li>
+    <li>Interested in Full-stack & ML/DL & Blockchain</li>
 </ul>
 
 <h2 align="center">❓ I code with...</h2>
