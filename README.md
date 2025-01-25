@@ -9,7 +9,7 @@
     <li>2024 GDG on Campus NTUST Lead</li>
     <li>2024 NTUST Computer Science Student Association Lead</li>
     <li>2024 NTUST BlockChain Club Academic</li>
-    <li>Interested in Full-stack & Blockchain domain</li>
+    <li>Interested in Full-stack & ML/DL & Blockchain domain</li>
 </ul>
 
 <h2 align="center">🚀 Projects</h2>
