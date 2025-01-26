@@ -5,11 +5,10 @@
 <h2 align="center">👀 About Me</h2>
 
 <ul>
-    <li>From Taiwan (R.O.C)</li>
-    <li>2024 GDG on Campus NTUST Lead</li>
-    <li>2024 NTUST Computer Science Student Association Lead</li>
-    <li>2024 NTUST BlockChain Club Academic</li>
-    <li>Interested in Full-stack & ML/DL & Blockchain</li>
+    <li>💥 Google Developer Groups On Campus @NTUST Lead</li>
+    <li>👾 Digital Creator @vicwentech</li>
+    <li>🚀 Passionate in ML/DL, Full-stack, Blockchain</li>
+    <li>😇 Software Engineer @?</li>
 </ul>
 
 <h2 align="center">❓ I code with...</h2>
