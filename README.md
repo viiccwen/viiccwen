@@ -3,3 +3,12 @@
 * Computer Science Student Organization @NTUST ex-President
 * Passionate in Opensource
 * Contributor in [astronomer/dag-factory](https://github.com/astronomer/dag-factory)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=ClickHouse&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
+![Apache AirFlow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/viiccwen?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
