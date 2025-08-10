@@ -1,4 +1,3 @@
-* Backend Intern @FXG
 * Google Developer Groups On Campus @NTUST ex-Lead
 * Computer Science Student Organization @NTUST ex-President
 * Passionate in Opensource
