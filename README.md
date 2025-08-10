@@ -1,7 +1,5 @@
-<ul>
-    <li>Backend Intern @FXG</li>
-    <li>Google Developer Groups On Campus @NTUST '24-'25 Lead</li>
-    <li>Computer Science Student Organization @NTUST '24-'25 President</li>
-    <li>Digital Creator @vicwentech</li>
-    <li>Passionate in ML/DL, Full-stack, Blockchain</li>
-</ul>
+* Backend Intern @FXG
+* Google Developer Groups On Campus @NTUST ex-Lead
+* Computer Science Student Organization @NTUST ex-President
+* Passionate in Opensource
+* Contributor in [astronomer/dag-factory](https://github.com/astronomer/dag-factory)
