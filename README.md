@@ -1,9 +1,10 @@
 * Backend Engineer Internship @ Fantasy X Games
 * Google Developer Groups On Campus @ NTUST ex-Lead
 * Computer Science Student Organization @ NTUST ex-President
+* Onwer | [rosikui](https://github.com/rosikui)
+* Contributor in [astronomer/dag-factory](https://github.com/astronomer/dag-factory)
 * [2025 iThome 鐵人賽 - ClickHouse 系列：從資料庫底層架構到軟體應用實踐](https://ithelp.ithome.com.tw/users/20168031/ironman/8221)
 * Passionate in Opensource
-* Contributor in [astronomer/dag-factory](https://github.com/astronomer/dag-factory)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
