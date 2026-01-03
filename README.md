@@ -1,3 +1,4 @@
+* Research Student @ NTUST NLP Lab
 * Backend Engineer Internship @ Fantasy X Games
 * Google Developer Groups On Campus @ NTUST ex-Lead
 * Computer Science Student Organization @ NTUST ex-President
