@@ -2,7 +2,6 @@
 * Backend Engineer Internship @ Fantasy X Games
 * Google Developer Groups On Campus @ NTUST ex-Lead
 * Computer Science Student Organization @ NTUST ex-President
-* Onwer | [rosikui](https://github.com/rosikui)
 * [2025 iThome 鐵人賽 - ClickHouse 系列：從資料庫底層架構到軟體應用實踐](https://ithelp.ithome.com.tw/users/20168031/ironman/8221)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -12,5 +11,4 @@
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 ![Apache AirFlow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/viiccwen?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 [![An image of @viiccwen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/viiccwen)](https://holopin.io/@viiccwen)
